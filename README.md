@@ -5,7 +5,7 @@
 
 ### Software Engineering student and a freelance Graphics Designer🚀  
 I started working as a Freelance Graphics Designer and an Audio Producer, and as my interest in technology grew more, so did my interest in gamedev and naturally coding. I tried to combine all the skills I have learned in the past few years which led me to studying at the Faculty of Information Technologies in Mostar, Bosnia.
-I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
+
   
 
 <a href="https://github.com/VedadTr" target="_blank">
