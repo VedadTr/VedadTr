@@ -25,7 +25,7 @@ I love designing systems that are light yet powerful, distributed yet synchroniz
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on GreenAlert 
   
 
 - 🌱 I’m currently learning Python and Flutter  
