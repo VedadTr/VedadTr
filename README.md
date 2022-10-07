@@ -25,10 +25,10 @@ I started working as a Freelance Graphics Designer and an Audio Producer, and as
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on GreenAlert 
+- 🔭 I’m currently developing an OSR DnD VTT simulator
   
 
-- 🌱 I’m currently learning Python and Flutter  
+- 🌱 I’m currently learning GodotScript
   
 
 - ⚡ Fun fact: Lord of the Rings and na Drini Cuprija were the Nobel prize finalists and Andric won.  
