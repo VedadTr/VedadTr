@@ -1,12 +1,5 @@
 
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
 
 - ⚡ Fun fact: Lord of the Rings and na Drini Cuprija were the Nobel prize finalists and Andric won.  
 
