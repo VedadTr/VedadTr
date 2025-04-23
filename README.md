@@ -1,22 +1,7 @@
-## Hey 👋, I'm Vedad!  
   
-
-
-
-### Software Engineering student and a freelance Graphics Designer🚀  
 I started working as a Freelance Graphics Designer and an Audio Producer, and as my interest in technology grew more, so did my interest in gamedev and naturally coding. I tried to combine all the skills I have learned in the past few years which led me to studying at the Faculty of Information Technologies in Mostar, Bosnia.
 
-  
 
-<a href="https://github.com/VedadTr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/VedadTraljo" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/vedad_trl" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
   
 
 <br/>  
@@ -25,11 +10,7 @@ I started working as a Freelance Graphics Designer and an Audio Producer, and as
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently developing an OSR DnD VTT simulator
-  
 
-- 🌱 I’m currently learning GodotScript
-  
 
 - ⚡ Fun fact: Lord of the Rings and na Drini Cuprija were the Nobel prize finalists and Andric won.  
 
