@@ -1,8 +1,4 @@
-  
-I started working as a Freelance Graphics Designer and an Audio Producer, and as my interest in technology grew more, so did my interest in gamedev and naturally coding. I tried to combine all the skills I have learned in the past few years which led me to studying at the Faculty of Information Technologies in Mostar, Bosnia.
 
-
-  
 
 <br/>  
 
