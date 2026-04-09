@@ -18,6 +18,8 @@
 
 ## Languages and Tools  
 <div align="center">  
+ <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="30" />
+<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/dart-original.svg" alt="Dart" height="30" />
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" />  
